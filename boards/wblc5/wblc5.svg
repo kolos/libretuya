@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="500" version="1.1" viewBox="0,0,85.33333333333333,41.666666666666664" width="1024">
+    <defs/>
+    <rect fill="white" height="41.666666666666664" stroke="black" stroke-width="0.1" width="85.33333333333333" x="0" y="0"/>
+    <linearGradient gradientUnits="objectBoundingBox" id="id1" x1="1.0" x2="0.0" y1="0.0" y2="1.0">
+        <stop offset="0%" stop-color="#f9f9f9"/>
+        <stop offset="100%" stop-color="#ededed"/>
+    </linearGradient>
+    <rect fill="url(#id1) none" height="12.6" stroke="#b5a739" stroke-width="0.1" width="8.4" x="20.028396101019055" y="11.083333333333334"/>
+    <rect fill="#fff" height="2.4" width="2.5" x="23.978396101019054" y="21.333333333333336"/>
+    <rect fill="#b5a739" height="0.1" width="2.7" x="23.878396101019053" y="21.233333333333334"/>
+    <rect fill="#b5a739" height="2.4" width="0.1" x="23.878396101019053" y="21.333333333333336"/>
+    <rect fill="#b5a739" height="2.4" width="0.1" x="26.478396101019054" y="21.333333333333336"/>
+    <rect fill="#fff" height="2.4" width="0.8" x="27.678396101019054" y="21.333333333333336"/>
+    <rect fill="#b5a739" height="0.1" width="0.9" x="27.578396101019052" y="21.233333333333334"/>
+    <rect fill="#b5a739" height="2.4" width="0.1" x="27.578396101019052" y="21.333333333333336"/>
+    <rect fill="#e5b472" height="2.0" id="tuyalc5.front.left.pin1.pad" rx="0.3" ry="0.3" width="1.0" x="20.738396101019056" y="21.613333333333333"/>
+    <rect fill="#e5b472" height="2.0" id="tuyalc5.front.left.pin2.pad" rx="0.3" ry="0.3" width="1.0" x="22.738396101019056" y="21.613333333333333"/>
+    <rect fill="#e5b472" height="2.0" id="pad.pad" rx="0.3" ry="0.3" width="1.0" x="26.608396101019054" y="21.613333333333333"/>
+    <rect fill="#4e4c4c" height="2.0" width="0.2" x="21.138396101019055" y="23.93333333333333"/>
+    <rect fill="#4e4c4c" height="0.2" width="0.2" x="20.938396101019055" y="25.733333333333334"/>
+    <rect height="0.0" id="tuyalc5.front.pin1.anchor" width="0.0" x="41.41679220203811" y="36.86666666666667"/>
+    <rect fill="#4e4c4c" height="4.0" width="0.2" x="23.138396101019055" y="23.93333333333333"/>
+    <rect fill="#4e4c4c" height="0.2" width="2.2" x="20.938396101019055" y="27.733333333333334"/>
+    <rect height="0.0" id="tuyalc5.front.pin2.anchor" width="0.0" x="41.41679220203811" y="38.86666666666666"/>
+    <rect fill="#4e4c4c" height="6.0" width="0.2" x="27.008396101019056" y="23.93333333333333"/>
+    <rect fill="#4e4c4c" height="0.2" width="6.07" x="20.938396101019055" y="29.733333333333334"/>
+    <rect height="0.0" id="tuyalc5.front.pin3.anchor" width="0.0" x="41.41679220203811" y="40.86666666666666"/>
+    <rect fill="#363636" height="5.0" width="5.0" x="22.278396101019055" y="14.533333333333333"/>
+    <circle cx="22.778396101019055" cy="15.033333333333333" fill="#b7b7b7" r="0.3"/>
+    <text fill="#000" font-family="Consolas" font-size="1.2" x="23.478396101019054" y="13.233333333333334">WBLC5</text>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="18.338396101019054" y="25.73333333333333"/>
+    <g transform="translate(16.152755454963952,25.03333333333333)">
+        <rect fill="#4e4c4c" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="1.8" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="16.838396101019054" y="25.833333333333332">1</text>
+    <g transform="translate(12.552755454963952,25.03333333333333)">
+        <rect fill="#ed602e" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="14.038396101019053" y="25.833333333333332">ANT</text>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="18.338396101019054" y="27.733333333333327"/>
+    <g transform="translate(16.152755454963952,27.033333333333328)">
+        <rect fill="#4e4c4c" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="1.8" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="16.838396101019054" y="27.83333333333333">3</text>
+    <g transform="translate(12.552755454963952,27.033333333333328)">
+        <rect fill="#800000" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="14.038396101019053" y="27.83333333333333">P24</text>
+    <g transform="translate(8.952755454963953,27.033333333333328)">
+        <rect fill="#afa35e" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="10.438396101019054" y="27.83333333333333">PWM4</text>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="18.338396101019054" y="29.733333333333327"/>
+    <g transform="translate(16.152755454963952,29.033333333333328)">
+        <rect fill="#4e4c4c" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="1.8" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="16.838396101019054" y="29.83333333333333">5</text>
+    <g transform="translate(12.552755454963952,29.033333333333328)">
+        <rect fill="#800000" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="14.038396101019053" y="29.83333333333333">P6</text>
+    <g transform="translate(8.952755454963953,29.033333333333328)">
+        <rect fill="#afa35e" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="10.438396101019054" y="29.83333333333333">PWM0</text>
+    <linearGradient gradientUnits="objectBoundingBox" id="id2" x1="1.0" x2="0.0" y1="0.0" y2="1.0">
+        <stop offset="0%" stop-color="#f9f9f9"/>
+        <stop offset="100%" stop-color="#ededed"/>
+    </linearGradient>
+    <rect fill="url(#id2) none" height="12.6" stroke="#b5a739" stroke-width="0.1" width="8.4" x="48.625062767685726" y="13.783333333333335"/>
+    <rect fill="#fff" height="2.4" width="2.5" x="50.57506276768573" y="24.033333333333335"/>
+    <rect fill="#b5a739" height="0.1" width="2.7" x="50.47506276768573" y="23.933333333333334"/>
+    <rect fill="#b5a739" height="2.4" width="0.1" x="53.07506276768573" y="24.033333333333335"/>
+    <rect fill="#b5a739" height="2.4" width="0.1" x="50.47506276768573" y="24.033333333333335"/>
+    <rect fill="#fff" height="2.4" width="0.8" x="48.57506276768573" y="24.033333333333335"/>
+    <rect fill="#b5a739" height="0.1" width="0.9" x="48.57506276768573" y="23.933333333333334"/>
+    <rect fill="#b5a739" height="2.4" width="0.1" x="49.375062767685726" y="24.033333333333335"/>
+    <rect fill="#e5b472" height="2.0" id="tuyalc5.back.left.pin1.pad" rx="0.3" ry="0.3" width="1.0" x="53.31506276768573" y="24.313333333333333"/>
+    <rect fill="#e5b472" height="2.0" id="tuyalc5.back.left.pin2.pad" rx="0.3" ry="0.3" width="1.0" x="55.31506276768573" y="24.313333333333333"/>
+    <rect fill="#e5b472" height="2.0" id="pad.pad" rx="0.3" ry="0.3" width="1.0" x="49.44506276768573" y="24.313333333333333"/>
+    <rect fill="#4e4c4c" height="2.0" width="0.2" x="55.71506276768573" y="26.633333333333333"/>
+    <rect fill="#4e4c4c" height="0.2" width="0.2" x="55.81506276768573" y="28.433333333333334"/>
+    <rect height="0.0" id="tuyalc5.back.pin1.anchor" width="0.0" x="104.09012553537146" y="42.266666666666666"/>
+    <rect fill="#4e4c4c" height="4.0" width="0.2" x="53.71506276768573" y="26.633333333333333"/>
+    <rect fill="#4e4c4c" height="0.2" width="2.2" x="53.81506276768573" y="30.433333333333334"/>
+    <rect height="0.0" id="tuyalc5.back.pin2.anchor" width="0.0" x="104.09012553537146" y="44.266666666666666"/>
+    <rect fill="#4e4c4c" height="6.0" width="0.2" x="49.84506276768573" y="26.633333333333333"/>
+    <rect fill="#4e4c4c" height="0.2" width="6.07" x="49.94506276768573" y="32.43333333333334"/>
+    <rect height="0.0" id="tuyalc5.back.pin3.anchor" width="0.0" x="104.09012553537146" y="46.266666666666666"/>
+    <rect fill="#e6e6e6" height="2.4" rx="0.2" stroke="#a66b3b" stroke-width="0.2" width="3.3" x="51.27506276768573" y="15.133333333333335"/>
+    <circle cx="49.27506276768573" cy="14.833333333333334" fill="#e5b472" r="0.5"/>
+    <rect fill="#4e4c4c" height="5.1" width="0.2" x="49.17506276768573" y="9.033333333333335"/>
+    <rect fill="#4e4c4c" height="0.2" width="7.4" x="49.27506276768573" y="9.033333333333335"/>
+    <rect height="0.0" id="wblc5.back.r1.anchor" width="0.0" x="104.75012553537147" y="22.866666666666667"/>
+    <circle cx="50.47506276768573" cy="14.633333333333335" fill="#e5b472" r="0.5"/>
+    <rect fill="#4e4c4c" height="2.9" width="0.2" x="50.375062767685726" y="11.033333333333335"/>
+    <rect fill="#4e4c4c" height="0.2" width="6.1000000000000005" x="50.47506276768573" y="11.033333333333335"/>
+    <rect height="0.0" id="wblc5.back.t1.anchor" width="0.0" x="104.65012553537146" y="24.866666666666667"/>
+    <circle cx="56.375062767685726" cy="14.533333333333335" fill="#e5b472" r="0.5"/>
+    <rect fill="#4e4c4c" height="0.8" width="0.2" x="56.27506276768573" y="13.033333333333335"/>
+    <rect fill="#4e4c4c" height="0.2" width="0.2" x="56.375062767685726" y="13.033333333333335"/>
+    <rect height="0.0" id="wblc5.back.r2.anchor" width="0.0" x="104.65012553537146" y="26.866666666666667"/>
+    <circle cx="56.375062767685726" cy="16.133333333333333" fill="#e5b472" r="0.5"/>
+    <rect fill="#4e4c4c" height="0.4" width="0.2" x="56.27506276768573" y="15.033333333333335"/>
+    <rect fill="#4e4c4c" height="0.2" width="0.2" x="56.375062767685726" y="15.033333333333335"/>
+    <rect height="0.0" id="wblc5.back.t2.anchor" width="0.0" x="104.65012553537146" y="28.866666666666667"/>
+    <circle cx="49.875062767685726" cy="17.933333333333334" fill="#e5b472" r="0.5"/>
+    <rect fill="#4e4c4c" height="0.0" width="0.2" x="50.57506276768573" y="17.833333333333336"/>
+    <rect fill="#4e4c4c" height="0.2" width="5.9" x="50.67506276768573" y="17.833333333333336"/>
+    <rect height="0.0" id="wblc5.back.cen.anchor" width="0.0" x="104.65012553537146" y="31.666666666666668"/>
+    <circle cx="50.17506276768573" cy="19.033333333333335" fill="#e5b472" r="0.5"/>
+    <circle cx="49.875062767685726" cy="20.033333333333335" fill="#e5b472" r="0.5"/>
+    <circle cx="53.07506276768573" cy="21.333333333333336" fill="#e5b472" r="0.5"/>
+    <circle cx="52.375062767685726" cy="22.433333333333334" fill="#e5b472" r="0.5"/>
+    <rect fill="#4e4c4c" height="0.3" width="0.2" x="50.07506276768573" y="19.733333333333334"/>
+    <rect fill="#4e4c4c" height="0.2" width="6.4" x="50.17506276768573" y="19.833333333333336"/>
+    <rect height="0.0" id="wblc5.back.tck.anchor" width="0.0" x="104.65012553537146" y="33.66666666666667"/>
+    <rect fill="#4e4c4c" height="1.3" width="0.2" x="49.77506276768573" y="20.733333333333334"/>
+    <rect fill="#4e4c4c" height="0.2" width="6.7" x="49.875062767685726" y="21.833333333333336"/>
+    <rect height="0.0" id="wblc5.back.tms.anchor" width="0.0" x="104.65012553537146" y="35.66666666666667"/>
+    <rect fill="#4e4c4c" height="2.0" width="0.2" x="52.97506276768573" y="22.03333333333333"/>
+    <rect fill="#4e4c4c" height="0.2" width="3.5" x="53.07506276768573" y="23.833333333333336"/>
+    <rect height="0.0" id="wblc5.back.tdi.anchor" width="0.0" x="104.65012553537146" y="37.66666666666667"/>
+    <rect fill="#4e4c4c" height="2.9" width="0.2" x="52.27506276768573" y="23.133333333333333"/>
+    <rect fill="#4e4c4c" height="0.2" width="4.2" x="52.375062767685726" y="25.833333333333336"/>
+    <rect height="0.0" id="wblc5.back.tdo.anchor" width="0.0" x="104.65012553537146" y="39.66666666666667"/>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="56.01506276768573" y="28.43333333333333"/>
+    <g transform="translate(59.42942212163063,27.73333333333333)">
+        <rect fill="#4e4c4c" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="1.8" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="60.11506276768573" y="28.53333333333333">2</text>
+    <g transform="translate(61.42942212163063,27.73333333333333)">
+        <rect fill="#000" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="62.91506276768573" y="28.53333333333333">GND</text>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="56.01506276768573" y="30.43333333333333"/>
+    <g transform="translate(59.42942212163063,29.73333333333333)">
+        <rect fill="#4e4c4c" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="1.8" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="60.11506276768573" y="30.53333333333333">4</text>
+    <g transform="translate(61.42942212163063,29.73333333333333)">
+        <rect fill="#800000" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="62.91506276768573" y="30.53333333333333">P26</text>
+    <g transform="translate(65.02942212163063,29.73333333333333)">
+        <rect fill="#aeafc1" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="66.51506276768573" y="30.53333333333333">IRDA</text>
+    <g transform="translate(68.62942212163063,29.73333333333333)">
+        <rect fill="#afa35e" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="70.11506276768573" y="30.53333333333333">PWM5</text>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="56.01506276768573" y="32.43333333333333"/>
+    <g transform="translate(59.42942212163063,31.73333333333333)">
+        <rect fill="#4e4c4c" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="1.8" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="60.11506276768573" y="32.53333333333333">6</text>
+    <g transform="translate(61.42942212163063,31.73333333333333)">
+        <rect fill="#cd3c24" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="62.91506276768573" y="32.53333333333333">3V3</text>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="56.57506276768573" y="17.833333333333332"/>
+    <g transform="translate(59.98942212163063,17.133333333333333)">
+        <rect fill="#ed602e" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="61.475062767685735" y="17.933333333333334">CEN</text>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="56.67506276768573" y="9.033333333333335"/>
+    <g transform="translate(60.08942212163063,8.333333333333334)">
+        <rect fill="#800000" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="61.575062767685736" y="9.133333333333335">P10</text>
+    <g transform="translate(63.689422121630635,8.333333333333334)">
+        <rect fill="#dcd4ee" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="65.17506276768573" y="9.133333333333335">RX1</text>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="56.57506276768573" y="11.033333333333335"/>
+    <g transform="translate(59.98942212163063,10.333333333333334)">
+        <rect fill="#800000" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="61.475062767685735" y="11.133333333333335">P11</text>
+    <g transform="translate(63.589422121630626,10.333333333333334)">
+        <rect fill="#dcd4ee" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="65.07506276768572" y="11.133333333333335">TX1</text>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="56.57506276768573" y="13.033333333333335"/>
+    <g transform="translate(59.98942212163063,12.333333333333334)">
+        <rect fill="#800000" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="61.475062767685735" y="13.133333333333335">P1</text>
+    <g transform="translate(63.589422121630626,12.333333333333334)">
+        <rect fill="#dcd4ee" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="65.07506276768572" y="13.133333333333335">RX2</text>
+    <g transform="translate(67.18942212163063,12.333333333333334)">
+        <rect fill="#f95" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="68.67506276768573" y="13.133333333333335">SDA2</text>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="56.57506276768573" y="15.033333333333335"/>
+    <g transform="translate(59.98942212163063,14.333333333333334)">
+        <rect fill="#800000" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="61.475062767685735" y="15.133333333333335">P0</text>
+    <g transform="translate(63.589422121630626,14.333333333333334)">
+        <rect fill="#dcd4ee" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="65.07506276768572" y="15.133333333333335">TX2</text>
+    <g transform="translate(67.18942212163063,14.333333333333334)">
+        <rect fill="#f95" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="68.67506276768573" y="15.133333333333335">SCL2</text>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="56.57506276768573" y="19.833333333333332"/>
+    <g transform="translate(59.98942212163063,19.133333333333333)">
+        <rect fill="#800000" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="61.475062767685735" y="19.933333333333334">P20</text>
+    <g transform="translate(63.589422121630626,19.133333333333333)">
+        <rect fill="#f95" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="65.07506276768572" y="19.933333333333334">SCL1</text>
+    <g transform="translate(67.18942212163063,19.133333333333333)">
+        <rect fill="#ffe680" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="68.67506276768573" y="19.933333333333334">TCK</text>
+    <g transform="translate(70.78942212163062,19.133333333333333)">
+        <rect fill="#f68a1e" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="72.27506276768572" y="19.933333333333334">FSCK</text>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="56.57506276768573" y="21.833333333333332"/>
+    <g transform="translate(59.98942212163063,21.133333333333333)">
+        <rect fill="#800000" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="61.475062767685735" y="21.933333333333334">P21</text>
+    <g transform="translate(63.589422121630626,21.133333333333333)">
+        <rect fill="#f95" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="65.07506276768572" y="21.933333333333334">SDA1</text>
+    <g transform="translate(67.18942212163063,21.133333333333333)">
+        <rect fill="#ffe680" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="68.67506276768573" y="21.933333333333334">TMS</text>
+    <g transform="translate(70.78942212163062,21.133333333333333)">
+        <rect fill="#f68a1e" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="middle" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="72.27506276768572" y="20.920833333333334">___</text>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="72.27506276768572" y="22.039583333333333">FCS</text>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="56.57506276768573" y="25.833333333333332"/>
+    <g transform="translate(59.98942212163063,25.133333333333333)">
+        <rect fill="#800000" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="61.475062767685735" y="25.933333333333334">P23</text>
+    <g transform="translate(63.589422121630626,25.133333333333333)">
+        <rect fill="#8ad039" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="65.07506276768572" y="25.933333333333334">ADC3</text>
+    <g transform="translate(67.18942212163063,25.133333333333333)">
+        <rect fill="#ffe680" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="68.67506276768573" y="25.933333333333334">TDO</text>
+    <g transform="translate(70.78942212163062,25.133333333333333)">
+        <rect fill="#f68a1e" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="72.27506276768572" y="25.933333333333334">FSO</text>
+    <rect fill="#4e4c4c" height="0.2" width="2.6" x="56.57506276768573" y="23.833333333333332"/>
+    <g transform="translate(59.98942212163063,23.133333333333333)">
+        <rect fill="#800000" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="white" font-family="Consolas" font-size="1.2" text-anchor="middle" x="61.475062767685735" y="23.933333333333334">P22</text>
+    <g transform="translate(63.589422121630626,23.133333333333333)">
+        <rect fill="#ffe680" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="65.07506276768572" y="23.933333333333334">TDI</text>
+    <g transform="translate(67.18942212163063,23.133333333333333)">
+        <rect fill="#f68a1e" height="1.6" rx="0.3" ry="0.3" transform="skewX(-15)" width="3.4" x="0" y="0"/>
+    </g>
+    <text dominant-baseline="central" fill="#423F42" font-family="Consolas" font-size="1.2" text-anchor="middle" x="68.67506276768573" y="23.933333333333334">FSI</text>
+</svg>
